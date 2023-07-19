@@ -109,7 +109,7 @@ align-items: center;
 font-size: 2.2rem;
 color: rgb(255, 0, 0);
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 476px) {
     .text-loker{
      
         font-size: 1.2rem;
@@ -127,7 +127,9 @@ color: rgb(255, 0, 0);
    
     }
     .foto{
-        width: 70%;
+        width: 90%;
+        left: 5%;
+        border: 1px solid red;
     }
     .foto img{
         width: 40%;
