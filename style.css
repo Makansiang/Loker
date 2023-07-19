@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    transition: 8s all;
+    transition: 3s all;
    
 
 }
@@ -125,6 +125,9 @@ color: rgb(255, 0, 0);
     .selamat{
         font-size: 2.5rem;
    
+    }
+    .foto{
+        width: 70%;
     }
     .foto img{
         width: 40%;
